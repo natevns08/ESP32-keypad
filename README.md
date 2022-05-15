@@ -18,9 +18,11 @@ Keypad is a bunch of buttons arranged in a matrix, where each button represents 
 We are using a keypad to authenticate. Here we have pre-defined a password in code, if a user types the same, access is granted else not.
 
 ## Code
-###Printing key pressed on a serial monitor
+### Printing key pressed on a serial monitor
+https://github.com/meghana-23-7/Interfacing-keypad-using-ESP32/blob/main/sketch_task6Interfacing.ino
 
 ### Interfacing password
+https://github.com/meghana-23-7/Interfacing-keypad-using-ESP32/blob/main/sketch_task6Print.ino
 
 ##  Problems based: None for this task.
 
