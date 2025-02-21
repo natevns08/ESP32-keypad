@@ -1,10 +1,6 @@
 # Interfacing-keypad-using-ESP32
 Interfacing a simple 4X4 keypad using ESP32.
 
-## Task number: 06
-
-## Task name: Interfacing a keypad with ESP32.
-
 ## Reference
 https://esp32io.com/tutorials/esp32-keypad
 
@@ -24,7 +20,6 @@ https://github.com/meghana-23-7/Interfacing-keypad-using-ESP32/blob/main/sketch_
 ### Interfacing password
 https://github.com/meghana-23-7/Interfacing-keypad-using-ESP32/blob/main/sketch_task6Print.ino
 
-##  Problems based: None for this task.
 
 ## Output
 
